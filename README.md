@@ -1,3 +1,5 @@
+🚀 I have made this by the following the tutorial on the react.dev, the official page for learning the react. It's a very good place to start with react, after i've made this i learned many things in react like state,props,components,hooks,lifting the state up in react.
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
